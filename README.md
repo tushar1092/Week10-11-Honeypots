@@ -14,3 +14,7 @@ I had a total of 18213 attacks-:
 + Honeypot 3 - 2353
 + Honeypot 4 - 2769
 I had different ports attacked such as sipcall, sipSession, pcap, sqld, smbd. 
+
+A screeshot of the VM console -:
+<img src="honeypot.gif" width="800">
+
